@@ -1,34 +1,27 @@
-# Stock Data Analysis and Visualization with Python
+# Python Quantitative Finance Projects
 
-This project downloads historical stock data using `yfinance`, performs basic analysis, and visualizes price trends and moving averages.
+This repository contains browser-based Python projects for quantitative finance, developed and run in Google Colab notebooks.
 
-## Features
+## Current Project
 
-- Download historical price data for any stock symbol
-- Calculate and plot moving averages
-- Visualize price trends with Matplotlib
+**Stock Data Analysis and Visualization with Python**
 
-## Getting Started
+- Downloads historical stock data using `yfinance`.
+- Performs basic analysis and visualizes price trends and moving averages.
+- All code is written and executed within a Google Colab notebook.
 
-1. Open `stock_analysis.ipynb` in [Google Colab](https://colab.research.google.com/) or Jupyter Notebook.
-2. Run the first code cell to install required libraries.
-3. Follow the notebook cells for data download, analysis, and visualization.
+## How to Use
 
-## Requirements
-
-- Python 3.8+
-- Libraries: yfinance, pandas, matplotlib (install instructions in notebook)
+- Open the notebook (`stock_analysis.ipynb`) in Google Colab.
+- Run the first code cell to install required libraries.
+- Follow the notebook cells for data download, analysis, and visualization.
 
 ## Next Steps
 
-- Add backtesting for trading strategies
-- Include performance metrics and risk analysis
-- Expand to multiple assets or portfolio visualization
+- Add backtesting for trading strategies.
+- Include performance metrics and risk analysis.
+- Expand to multiple assets or portfolio visualization.
 
 ## License
 
-MIT
-
----
-
-*This project is for educational and portfolio purposes. See issues for planned improvements.*
+MIT (or your preferred license)
